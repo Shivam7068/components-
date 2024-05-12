@@ -2,7 +2,7 @@ import React from 'react'
 
 const notfound = () => {
   return (
-    <div className='max-h-screen flex justify-center items-center h-[100vh]'>
+    <div className="max-h-screen flex justify-center items-center h-[100vh]">
       <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
         <div className="mx-auto max-w-screen-sm text-center">
           <h1 className="mb-4 text-7xl tracking-tight font-extrabold lg:text-9xl text-transparent bg-clip-text bg-gradient-to-r from-black to-blue-800">
