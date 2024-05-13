@@ -5,7 +5,7 @@ const SimpleCard = () => {
 
         // if you are maping this component so before using inside map function remove main div from here and wrap map function with this class
 
-        <div className='main flex w-[90%] items-center m-auto flex-wrap  gap-3 justify-center mt-2'>
+        <div className='main flex w-[90%] items-center m-auto flex-wrap  gap-3  mt-2'>
 
 
             <div className='flex flex-col w-full sm:w-[calc(50%-10px)] md:w-[calc(33.33%-10px)] lg:w-[calc(25%-10px)] bg-gray-300 flex-wrap justify-center gap-4 rounded-xl overflow-hidden'>

@@ -4,7 +4,7 @@ import React from 'react'
 const SmallCard = () => {
     return (
         // if you are maping this component so before using this component inside map function remove main div from here and wrap map function with this main class
-        <div className='main flex w-[90%] items-center m-auto flex-wrap gap-3 justify-center mt-2'>
+        <div className='main flex w-[90%] items-center m-auto flex-wrap gap-3 mt-2'>
 
             <div className='flex  w-full sm:w-[calc(50%-10px)] md:w-[calc(33.33%-10px)] lg:w-[calc(25%-10px)] flex-col bg-[#eee] border-none shadow-none items-center justify-center relative before:absolute before:content-["_"] before:h-[80px] before:bg-white before:w-full before:top-0'>
 
